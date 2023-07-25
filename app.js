@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello Freediver!
+      Hello Freediver.
     </section>
   </body>
 </html>
